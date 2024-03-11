@@ -1,0 +1,14 @@
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.exe
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.deps.json
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.runtimeconfig.json
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.runtimeconfig.dev.json
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.dll
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\bin\Debug\netcoreapp3.1\baitapLinQJoin.pdb
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.csproj.AssemblyReference.cache
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.AssemblyInfoInputs.cache
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.AssemblyInfo.cs
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.csproj.CoreCompileInputs.cache
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.dll
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.pdb
+D:\THLTC\baitapLinQJoin\baitapLinQJoin\obj\Debug\netcoreapp3.1\baitapLinQJoin.genruntimeconfig.cache
